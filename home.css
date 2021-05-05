@@ -1,4 +1,4 @@
-@media (max-width: 1950px) { 
+@media (max-width: 19850px) { 
 body{
 	background: url(1.jpeg);
 -webkit-background-size: cover;
@@ -89,8 +89,8 @@ a{
 .block121{
 	font-size: 25px;
 	position: absolute;
-	top: 200px;
-	right: 110px;
+	top: 210px;
+	right: 370px;
 }
 
 .block13{
@@ -209,12 +209,12 @@ top: 110%;
  width: 1000px;
 }
 
-.block_huj{
+.block_huj1{
 
 	position: absolute;
 	top: 40%;
 	left: 6%;
-    height: 500px;
+   width: 900px;
 
 }
 
@@ -858,10 +858,10 @@ left: 7%;
 
 	.bloqckv1{
 
-		font-size: 24px;
+		font-size: 40px;
 		position:absolute;	
-		left: 28%;
-		top:60%;
+		left: 33%;
+		top:33%;
 		color:white;
 	}
 
@@ -872,8 +872,9 @@ left: 7%;
 }
 }
 
-	 @media (max-width: 0px) { 
+	 @media (max-width: 1300px) { 
 body{
+	justify-content: center;
 	background: url(1.jpeg);
 -webkit-background-size: cover;
 	background-size: cover;
@@ -883,20 +884,20 @@ body{
 
 .form {
 	border:2px solid green ;
-	height:450px;
+	height:600px;
 	width:500px;
 	position: absolute;
 	top: 40%;
-	left: 70%;
+	left: 53%;
 	background: rgba(0,0,0,.7);
-	transform: translate(-50%,-50%);
+	transform: translate(-55%,-50%);
 	border-radius: 30px;
 	}
 
 .block1a{
 	font-size: 27px;
   	position: absolute;
-	top: 34%;
+	top: 26%;
 	left: 25%;
 	transform: translate(-50%,-50%);
 }
@@ -906,7 +907,7 @@ body{
 	height: 40px;
 	position: absolute;
 opacity: 50%;
-top:30%;
+top:23%;
 }
 
 .vk2{
@@ -914,14 +915,14 @@ top:30%;
 	height: 40px;
 	position: absolute;
 	left: 83%;
-	top:30%;
+	top:23%;
 }
 
 
 .block2{
 	font-size: 	24px;
   	position: absolute;
-	top: 34%;
+	top: 26%;
 left: 50%;
 	transform: translate(-50%,-50%);
 }
@@ -929,7 +930,7 @@ left: 50%;
 .block3d{
 	font-size: 	27px;
   	position: absolute;
-	top: 34%;
+	top: 26%;
 	left:75%;
 	transform: translate(-50%,-50%);
 }
@@ -964,11 +965,11 @@ a{
 	position: absolute;
 	top: 130%;
 }
-.block12{
-	font-size: 30px;
+.block121{
+	font-size: 20px;
 	position: absolute;
-	top: 200px;
-	right: 200px;
+	top: 220px;
+	right: 130px;
 }
 
 .block13{
@@ -1067,7 +1068,7 @@ top: 110%;
 
 .blockk111{
 	position: absolute;
-	top: 230px;
+	top: 240px;
 	left: 5%;
 	font-size: 20px;
 }
@@ -1077,7 +1078,7 @@ top: 110%;
 }
 
 .block402{
-	width: 1000px;
+	width: 100%;
 	height: 1px;
 	background-color: white;
 	position: absolute;
@@ -1087,13 +1088,14 @@ top: 110%;
  width: 1000px;
 }
 
-.block_huj{
-	height:400px;
-	width:500px;
+.block_huj1{
+	border: none;
+	height:250px;
+	width:450px;
 	position: absolute;
-	top: 40%;
-	left: 70%;
-    height: 500px;
+	top: 55%;
+	left: 6%;
+    
 
 }
 
@@ -1102,8 +1104,8 @@ top: 110%;
 	height:600px;
 	width:600px;
 	position: absolute;
-	top: 170%;
-	left: 22%;
+	top: 190%;
+	left: 50%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1115,8 +1117,8 @@ top: 110%;
 	height:600px;
 	width:600px;
 	position: absolute;
-	top: 150%;
-	left: 22%;
+	top: 190%;
+	left: 50%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1124,8 +1126,8 @@ top: 110%;
 
 .block01{
 	position: absolute;
-	top: 100%;
-	left: 40%;
+	top: 114%;
+	left: 30%;
 }
 
 .form2 {
@@ -1133,9 +1135,9 @@ top: 110%;
 	height:600px;
 	width:600px;
 	position: absolute;
-	top: 170%;
-	left: 85%;
-	transform: translate(-50%,-50%);
+	top: 300%;
+	left: 58%;
+	transform: translate(-55%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius:10px;
 }
@@ -1146,8 +1148,8 @@ top: 110%;
 	height:600px;
 	width:600px;
 	position: absolute;
-	top: 150%;
-	left: 85%;
+	top: 300%;
+	left: 52%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1206,8 +1208,8 @@ left: 8%;
 
 .block02{
 	position: absolute;
-	top: 190%;
-	left: 47%;
+	top: 360%;
+	left: 38%;
 }
 
 
@@ -1218,8 +1220,8 @@ left: 8%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 220%;
-	left: 20%;
+	top: 400%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1230,8 +1232,8 @@ left: 8%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 220%;
-	left: 20%;
+	top: 400%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px ;
@@ -1252,8 +1254,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 220%;
-	left: 90%;
+	top: 460%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1264,8 +1266,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 220%;
-	left: 90%;
+	top: 460%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1288,7 +1290,7 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 260%;
+	top: 520%;
 	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
@@ -1301,7 +1303,7 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 260%;
+	top: 520%;
 	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -1325,8 +1327,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 300%;
-	left: 20%;
+	top: 580%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1335,11 +1337,11 @@ top: 2%;
 
 
 .donatfire{
+
 		height:300px;
 	width:300px;
-	position: absolute;
-	top: 300%;
-	left: 20%;
+	top: 580%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1362,8 +1364,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 300%;
-	left: 90%;
+	top: 640%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1375,8 +1377,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 300%;
-	left: 90%;
+	top: 640%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1399,7 +1401,7 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 300%;
+	top: 700%;
 	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
@@ -1412,7 +1414,7 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 300%;
+	top: 700%;
 	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -1437,7 +1439,7 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 220%;
+	top: 820%;
 	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
@@ -1451,7 +1453,7 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 220%;
+	top: 820%;
 	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
@@ -1476,8 +1478,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-top: 260%;
-	left: 20%;
+ top: 760%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1489,8 +1491,9 @@ top: 260%;
 		height:300px;
 	width:300px;
 	position: absolute;
-top: 260%;
-	left: 20%;
+	top: 880%;
+	top: 760%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1513,8 +1516,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 260%;
-	left: 90%;
+	top: 880%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.9);
 	border-radius: 30px;
@@ -1527,8 +1530,8 @@ top: 2%;
 		height:300px;
 	width:300px;
 	position: absolute;
-	top: 260%;
-	left: 90%;
+	top: 880%;
+	left: 55%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 10px;
@@ -1569,8 +1572,8 @@ left: 46%;
 	width: 	600px;
 	height: 65px;
 	position: absolute;
-	top: 336%;
-	left: 55%;
+	top: 406%;
+	left: 95%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 3px;
@@ -1588,12 +1591,12 @@ left: 46%;
 }
 
 
-.shama{
-	height: 	65px;
+.shamaf{
+	height: 65px;
 	width: 	600px;
 	position: absolute;
-	top: 346%;
-	left: 55%;
+	left: 113%;
+	top: 4550%;
 	transform: translate(-50%,-50%);
 	background: rgba(0,0,0,.7);
 	border-radius: 3px;
@@ -1676,20 +1679,21 @@ video{
 
 .spec1{
 	position: absolute;	
-	left: 10%;
-	top: -10%;
+	left: 115%;
+	top: 4400%;
 }
 
 .shama1{
-	position:absolute;	
-	left: 7%;
-	top: -10%; 
+position: absolute;	
+	left: 113%;
+	top: 4550%;
 }
 
 .dev1{
 	position: absolute;	
-left: 7%;
-	top: -10%; 
+position: absolute;	
+	left: 116%;
+	top: 4700%;
 }
 
 	.hm11{
@@ -1735,12 +1739,11 @@ left: 7%;
 	}
 	
 
-	.blockv1{
-
-		font-size: 50px;
+	.bloqckv1{
+		font-size: 30px;
 		position:absolute;	
 		left: 28%;
-		top:31%;
+		top:48%;
 		color:white;
 	}
 
@@ -1748,5 +1751,13 @@ left: 7%;
 	position: absolute;
 	top: -10%;
 	left: 18%;
+}
+.ddo{
+	position: absolute;
+	top: 490%;
+}
+.hhz{
+	position: absolute;
+	top: 440%;
 }
 	 }
